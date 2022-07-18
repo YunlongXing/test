@@ -1,0 +1,87 @@
+2022/07/13 11:31:17 Start to read trace_pipe:
+2022/07/13 11:31:17 [COMM] node
+2022/07/13 11:31:17 [COMM] comm_snoop
+2022/07/13 11:31:17 [COMM] sshd
+2022/07/13 11:31:17 [COMM] cpptools-srv
+2022/07/13 11:31:17 [COMM] cpptools
+2022/07/13 11:31:17 [Wran] Ringbuffer lost data: 355 924 1279 4 Total: 355
+2022/07/13 11:31:17 [COMM] gmain
+2022/07/13 11:31:17 [Wran] Ringbuffer lost data: 262 1785 2047 7 Total: 617
+2022/07/13 11:31:17 [COMM] gopls
+2022/07/13 11:31:17 [Wran] Ringbuffer lost data: 273 2798 3071 11 Total: 890
+2022/07/13 11:31:17 [COMM] systemd-journal
+2022/07/13 11:31:17 [COMM] ifplugd
+2022/07/13 11:31:17 [Wran] Ringbuffer lost data: 261 3834 4095 15 Total: 1151
+2022/07/13 11:31:18 [COMM] multipathd
+2022/07/13 11:31:18 [Wran] Ringbuffer lost data: 281 5093 5374 20 Total: 1432
+2022/07/13 11:31:18 [COMM] git
+2022/07/13 11:31:18 [Wran] Ringbuffer lost data: 259 5780 6039 23 Total: 1691
+2022/07/13 11:31:18 [Wran] Ringbuffer lost data: 301 6097 6398 24 Total: 1992
+2022/07/13 11:31:18 [Wran] Ringbuffer lost data: 361 7317 7678 29 Total: 2353
+2022/07/13 11:31:18 Tick:  1
+2022/07/13 11:31:18 [COMM] sh
+2022/07/13 11:31:18 [COMM] which
+2022/07/13 11:31:18 [Wran] Ringbuffer lost data: 413 9036 9449 36 Total: 2766
+2022/07/13 11:31:18 [COMM] cpuUsage.sh
+2022/07/13 11:31:18 [COMM] cat
+2022/07/13 11:31:18 [Wran] Ringbuffer lost data: 261 9976 10237 39 Total: 3027
+2022/07/13 11:31:18 [COMM] uml_switch
+2022/07/13 11:31:19 Tick:  2
+2022/07/13 11:31:19 [COMM] sed
+2022/07/13 11:31:20 Tick:  3
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 263 13304 13567 52 Total: 3290
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 266 14069 14335 55 Total: 3556
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 324 14755 15079 58 Total: 3880
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 258 15752 16010 62 Total: 4138
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 314 16325 16639 64 Total: 4452
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 470 16936 17406 67 Total: 4922
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 259 17475 17734 69 Total: 5181
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 393 17782 18175 70 Total: 5574
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 413 18274 18687 72 Total: 5987
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 374 18823 19197 74 Total: 6361
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 257 19198 19455 75 Total: 6618
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 390 19577 19967 77 Total: 7008
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 258 20065 20323 79 Total: 7266
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 258 20589 20847 81 Total: 7524
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 299 20948 21247 82 Total: 7823
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 257 21600 21857 85 Total: 8080
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 355 22172 22527 87 Total: 8435
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 419 22875 23294 90 Total: 8854
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 382 23425 23807 92 Total: 9236
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 276 24042 24318 94 Total: 9512
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 341 24746 25087 97 Total: 9853
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 354 25245 25599 99 Total: 10207
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 281 26068 26349 102 Total: 10488
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 258 26691 26949 105 Total: 10746
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 325 27065 27390 106 Total: 11071
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 363 27540 27903 108 Total: 11434
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 366 28048 28414 110 Total: 11800
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 511 28672 29183 113 Total: 12311
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 257 30230 30487 119 Total: 12568
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 257 31529 31786 124 Total: 12825
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 258 31907 32165 125 Total: 13083
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 472 32295 32767 127 Total: 13555
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 259 33020 33279 129 Total: 13814
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 551 34226 34777 135 Total: 14365
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 273 34798 35071 136 Total: 14638
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 464 35118 35582 138 Total: 15102
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 257 35712 35969 140 Total: 15359
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 340 36011 36351 141 Total: 15699
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 261 36410 36671 143 Total: 15960
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 258 36809 37067 144 Total: 16218
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 504 37126 37630 146 Total: 16722
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 257 37693 37950 148 Total: 16979
+2022/07/13 11:31:20 [Wran] Ringbuffer lost data: 345 38566 38911 151 Total: 17324
+2022/07/13 11:31:21 [COMM] containerd
+2022/07/13 11:31:21 Tick:  4
+2022/07/13 11:31:21 [Wran] Ringbuffer lost data: 272 41198 41470 161 Total: 17596
+2022/07/13 11:31:21 [COMM] systemd
+2022/07/13 11:31:21 [COMM] systemd-resolve
+2022/07/13 11:31:22 Tick:  5
+2022/07/13 11:31:22 [COMM] dockerd
+2022/07/13 11:31:23 Tick:  6
+2022/07/13 11:31:23 [Wran] Ringbuffer lost data: 259 45564 45823 178 Total: 17855
+2022/07/13 11:31:23 [Wran] Ringbuffer lost data: 258 45968 46226 180 Total: 18113
+2022/07/13 11:31:23 [Wran] Ringbuffer lost data: 284 46819 47103 183 Total: 18397
+2022/07/13 11:31:23 [Wran] Ringbuffer lost data: 334 48048 48382 188 Total: 18731
+2022/07/13 11:31:23 [Wran] Ringbuffer lost data: 259 48892 49151 191 Total: 18990
